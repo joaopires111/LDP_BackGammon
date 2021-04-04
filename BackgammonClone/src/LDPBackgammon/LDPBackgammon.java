@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package backgammonclone;
+package LDPBackgammon;
 
 /**
  *
  * @author User
  */
-public class BackgammonClone {
+public class LDPBackgammon {
 
     /**
      * @param args the command line arguments
