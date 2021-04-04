@@ -16,6 +16,7 @@ public class BackgammonClone {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("gg wp trash top");
     }
     
 }
