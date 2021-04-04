@@ -18,6 +18,7 @@ public class LDPBackgammon {
         // TODO code application logic here
         
         System.out.println("Try to up to branch");
+        System.out.println("another try");
     }
     
 }
